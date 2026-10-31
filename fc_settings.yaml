@@ -35,6 +35,7 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 自己的博客：先保证有数据，之后把朋友的站点按同样格式追加到这里
         ["Lumine's diary", "https://int1.xyz/", "https://int1.xyz/favicon/favicon-light-128.png"],
+        ["语景小站", "https://rainview.net/", "https://res.rainview.net/images/favicon.png"],
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
