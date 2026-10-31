@@ -15,6 +15,9 @@ dependencies = [
     "uvicorn>=0.35.0",
 ]
 
+[tool.vercel]
+entrypoint = "api.vercel:app"
+
 [dependency-groups]
 dev = [
     "ruff",
